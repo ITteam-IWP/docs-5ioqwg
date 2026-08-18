@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-qc6soz.radarsatu88.cfd/sitemap.xml
